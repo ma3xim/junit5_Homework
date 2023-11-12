@@ -1,4 +1,4 @@
-# junit5-trainer
+# junit5_Homework
 
 Задание:
 - Покрыть Unit и Integration тестами не менее 90% кода
