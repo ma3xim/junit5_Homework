@@ -1,8 +1,0 @@
-
-X
-java:S1128
-"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ8¶À¦®¼1
-R
-java:S1128"5Remove this unused import 'lombok.NoArgsConstructor'.(¸¨›8·À¦®¼1
-T
-java:S1128"7Remove this unused import 'lombok.AccessLevel.PRIVATE'.(èÇ•å8·À¦®¼1
